@@ -95,8 +95,8 @@ GROUP BY and HAVING
 Business Problem Solving
 Inventory Analysis
 Revenue Analysis
-📌 Conclusion
 
+📌 Conclusion
 This project demonstrates how SQL can be used to transform raw bookstore data into actionable business insights. Through both basic and advanced queries, valuable information regarding sales performance, customer behavior, and inventory management was uncovered, showcasing the practical application of SQL in business analytics.
 
 Created by: Priyanka Chaurasiya
